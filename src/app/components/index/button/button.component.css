@@ -1,0 +1,23 @@
+div{
+  display: inline-block;
+  background-color: red;
+  padding: 10px;
+  margin-left: 10px;
+  color: white;
+  cursor: pointer;
+}
+
+div:hover{
+  background-color: #ff7269;
+}
+
+img{
+  outline-color: transparent;
+  margin-left: 5px;
+  height: 40px;
+  width: 40px;
+}
+
+img[src=""] {
+  display: none;
+}
