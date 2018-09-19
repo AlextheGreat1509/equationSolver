@@ -16,8 +16,12 @@ img{
   margin-left: 5px;
   height: 40px;
   width: 40px;
+  vertical-align: middle;
 }
 
 img[src=""] {
   display: none;
+}
+.button{
+
 }
